@@ -69,7 +69,9 @@
 <body>
 HOME PAGE
 <a href="about.php">About</a>
+<a href="contact.php">Contact</a>
 <a href="logout.php?logout">Logout</a>
+
 
 </body>
 </html>
